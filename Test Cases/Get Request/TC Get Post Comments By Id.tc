@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Get Post Comments By Id request method API</description>
+   <name>TC Get Post Comments By Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84a47bb2-40f8-42ed-8348-36f77b87c325</testCaseGuid>
+</TestCaseEntity>

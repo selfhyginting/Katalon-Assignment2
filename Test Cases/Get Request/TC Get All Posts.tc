@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Get List Post request method API</description>
+   <name>TC Get All Posts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf91a683-b1c5-4cec-b0fd-614b69de8394</testCaseGuid>
+</TestCaseEntity>
