@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for Add Data Post 10 request method API</description>
+   <name>TC Post Data 10</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7037c0cc-8d1b-461d-aa78-04feb38cb3c6</testCaseGuid>
+</TestCaseEntity>
